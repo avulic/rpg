@@ -1,0 +1,11 @@
+{
+  "server": {"type": "object"},
+  "client": {"type": "object"},
+  "*": {},
+  
+  "name": "gui_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts"
+
+}
