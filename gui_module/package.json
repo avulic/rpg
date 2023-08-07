@@ -1,9 +1,0 @@
-{
-  "name": "gui_module",
-  "version": "4.0.0",
-  "description": "",
-  "main": "index.ts",
-  "types": "index.d.ts",
-  "keywords": [],
-  "license": "MIT"
-}
